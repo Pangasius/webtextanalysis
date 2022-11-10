@@ -6,7 +6,7 @@ set -e
 
 make
 
-CORPUS=alice_tokenised.txt
+CORPUS=tokenised.txt
 VOCAB_FILE=vocab.txt
 COOCCURRENCE_FILE=cooccurrence.bin
 COOCCURRENCE_SHUF_FILE=cooccurrence.shuf.bin
@@ -14,7 +14,7 @@ BUILDDIR=build
 SAVE_FILE=vectors
 VERBOSE=2
 MEMORY=4.0
-VOCAB_MIN_COUNT=1
+VOCAB_MIN_COUNT=3
 VECTOR_SIZE=100
 MAX_ITER=15
 WINDOW_SIZE=15
