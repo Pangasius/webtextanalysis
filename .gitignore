@@ -130,4 +130,6 @@ dmypy.json
 
 models/*.txt
 samples/alice_tokenised.txt
+samples/source.txt
+samples/target.txt
 fra.txt
