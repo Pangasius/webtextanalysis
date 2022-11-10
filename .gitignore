@@ -129,7 +129,5 @@ dmypy.json
 .pyre/
 
 models/*.txt
-samples/alice_tokenised.txt
-samples/source.txt
-samples/target.txt
+samples/*.txt
 fra.txt
