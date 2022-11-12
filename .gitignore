@@ -131,3 +131,5 @@ dmypy.json
 models/*.txt
 samples/*.txt
 fra.txt
+
+.vscode
