@@ -133,3 +133,5 @@ samples/*.txt
 fra.txt
 
 .vscode
+
+full_size/
